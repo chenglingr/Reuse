@@ -45,7 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="doc\数据库.doc" />
+    <None Include="html5\HTML5_课程设置.doc" />
+    <None Include="html5\移动前端开发%28HTML5%29课程体系研发v1.0.ppt" />
+    <None Include="html5\课程标准%28HTML5网页编程%29.doc" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
