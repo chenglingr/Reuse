@@ -57,24 +57,9 @@
     <None Include="web\images\temp\Descr.WD3" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="web\css\blue-skin5152.css" />
-    <Content Include="web\css\blue-skin\blue-bg.jpg" />
-    <Content Include="web\css\blue-skin\devine-art.png" />
-    <Content Include="web\css\blue-skin\facebook.png" />
-    <Content Include="web\css\blue-skin\flickr.png" />
-    <Content Include="web\css\blue-skin\footer-bg.png" />
-    <Content Include="web\css\blue-skin\google.png" />
-    <Content Include="web\css\blue-skin\linked-in.png" />
-    <Content Include="web\css\blue-skin\rss.png" />
-    <Content Include="web\css\blue-skin\skype.png" />
-    <Content Include="web\css\blue-skin\stumble.png" />
-    <Content Include="web\css\blue-skin\twitter.png" />
-    <Content Include="web\css\bootstrap5152.css" />
-    <Content Include="web\css\custom5152.html" />
-    <Content Include="web\css\green-skin5152.css" />
-    <Content Include="web\css\main5152.css" />
-    <Content Include="web\css\red-skin5152.css" />
-    <Content Include="web\css\responsive5152.css" />
+    <Content Include="web\css\bootstrap.css" />
+    <Content Include="web\css\main.css" />
+    <Content Include="web\css\responsive.css" />
     <Content Include="web\images\calendar-icon.png" />
     <Content Include="web\images\category-icon.png" />
     <Content Include="web\images\category-main-icon.png" />
@@ -116,7 +101,7 @@
     <Content Include="web\images\user.png" />
     <Content Include="web\images\video-large.png" />
     <Content Include="web\images\video.png" />
-    <Content Include="web\index.html" />
+    <Content Include="web\Index.html" />
     <Content Include="web\js\custom.js" />
     <Content Include="web\js\custom5152.js" />
     <Content Include="web\js\jflickrfeed.js" />
@@ -132,14 +117,14 @@
     <Content Include="web\js\prettyphoto\jquery.prettyPhoto.js" />
     <Content Include="web\js\prettyphoto\jquery.prettyPhotoaeb9.js" />
     <Content Include="web\js\prettyphoto\prettyPhotoaeb9.css" />
-    <Content Include="web\主页-版块+内容列表.html" />
-    <Content Include="web\内容页-简洁-无评论.html" />
-    <Content Include="web\内容页.html" />
-    <Content Include="web\加精帖子列表.html" />
-    <Content Include="web\帖子列表.html" />
-    <Content Include="web\版块列表.html" />
-    <Content Include="web\联系我们-内容展示.html" />
-    <Content Include="web\联系我们.html" />
+    <Content Include="web\CategoryContent.html" />
+    <Content Include="web\ContentSimple.html" />
+    <Content Include="web\ContentComment.html" />
+    <Content Include="web\Hot.html" />
+    <Content Include="web\ArticleList.html" />
+    <Content Include="web\Category.html" />
+    <Content Include="web\LinkMEContent.html" />
+    <Content Include="web\LinkME.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
